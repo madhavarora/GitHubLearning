@@ -7,7 +7,7 @@ public class GitTutorial {
 		
 		
 
-		System.out.println("Hello Git new change 6  ");
+		System.out.println("Hello Git new change 6");
 
 	}
 
